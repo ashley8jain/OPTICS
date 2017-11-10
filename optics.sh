@@ -1,0 +1,1 @@
+time ./optics $1 $2
