@@ -1,9 +1,9 @@
 ## OPTICS (Density Based Clustering)
 ### Implement OPTICS to produce the reachability plot
 
-* *compile.sh*: Compile the code
-* *optics.sh*: Get reachability data
-* *plot.sh*: Plot the reachability data using matplotlib
+* **compile.sh**: Compile the code
+* **optics.sh**: Get reachability data
+* **plot.sh**: Plot the reachability data using matplotlib
 
 
 #### The dataset for above optics code would be in the following format.
