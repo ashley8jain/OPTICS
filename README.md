@@ -1,4 +1,7 @@
 ## OPTICS (Density Based Clustering)
+
+> [Question.pdf](Assignment.pdf)
+
 ### Implement OPTICS to produce the reachability plot
 
 * **compile.sh**: Compile the code
